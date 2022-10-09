@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# git stats
+![kimhyunjee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyunjee&show_icons=true&theme=buefy)
+
 # skill
 
 <div align=left> 
