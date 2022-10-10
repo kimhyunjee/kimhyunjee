@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunjee&layout=compact&theme=buefy)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysk30430)](https://solved.ac/ysk30430/)
+
+
 ## ✨ skill ✨
 
 <div align=left> 
